@@ -117,6 +117,3 @@ A full-stack task management web app that helps users efficiently manage and org
 - Task completion progress tracking
 - Mobile app integration
 
----
-
-This README format provides clear information about the project and its implementation, making it easier for other developers or collaborators to understand your work.
