@@ -20,7 +20,7 @@ A full-stack task management web app that helps users efficiently manage and org
 
 ### **Frontend**:
 
-- React.js (or Vue.js)
+- React.js ( Vite app + TS )
 - Tailwind CSS for styling
 
 ### **Backend**:
@@ -30,7 +30,7 @@ A full-stack task management web app that helps users efficiently manage and org
 
 ### **Database**:
 
-- MongoDB (or MySQL)
+- MySQL
 
 ## **Data Structures & Algorithms (DSA) Used**
 
@@ -54,15 +54,15 @@ A full-stack task management web app that helps users efficiently manage and org
 ### **Requirements**
 
 - Node.js
-- MongoDB (or MySQL)
-- npm or yarn
+- MySQL
+- npm
 
 ### **Installation**
 
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/task-management-app.git
+   git clone https://github.com/nvgauravRD/taskwise.git
    cd task-management-app
    ```
 
@@ -116,4 +116,3 @@ A full-stack task management web app that helps users efficiently manage and org
 - Task collaboration (share tasks with other users)
 - Task completion progress tracking
 - Mobile app integration
-
